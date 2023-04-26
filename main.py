@@ -4,9 +4,6 @@ from tkinter import ttk
 import tkinter as tk
 import pyperclip
 from tkinter import messagebox
-import subprocess
-
-subprocess.call(["afplay", "/Users/neaderlord/Documents/Belgeler - Berkay MacBook Air/Belgeler/Türkçe İngilizce Harf Çevirici/music/yt1s.com - Breaking Bad Theme Low Quality-[AudioTrimmer.com].mp3"])
 
 #Ekran Oluşturma
 ekran = tk.Tk()
